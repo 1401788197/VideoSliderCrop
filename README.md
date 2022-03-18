@@ -3,5 +3,5 @@
 支持裁剪
 
 ## 效果图
-![图片展示](https://github.com/1401788197/VideoSliderCrop/blob/master/VideoPlayDemo/VideoCrop.gif) 
+![图片展示](https://raw.githubusercontent.com/1401788197/VideoSliderCrop/master/VideoPlayDemo/VideoCrop.gif) 
 
