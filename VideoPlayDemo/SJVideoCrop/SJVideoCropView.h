@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import <AVFoundation/AVFoundation.h>
 @protocol SJVideoCropViewDelegate <NSObject>
 
 @optional
@@ -38,6 +38,7 @@ NS_ASSUME_NONNULL_BEGIN
  @param progress 进度
  */
 - (void)updateProgressViewWithProgress:(CGFloat)progress;
+- (CMTimeRange)timeRange;
 @end
 
 NS_ASSUME_NONNULL_END

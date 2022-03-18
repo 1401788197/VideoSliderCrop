@@ -19,6 +19,7 @@
 		2BCABA48224B7B40002E4BF7 /* SJVideoCropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCABA47224B7B40002E4BF7 /* SJVideoCropView.m */; };
 		2BCABA4B224B8035002E4BF7 /* UIView+SJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCABA4A224B8035002E4BF7 /* UIView+SJExtension.m */; };
 		2BCABA4F224B8629002E4BF7 /* SJCropCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCABA4E224B8629002E4BF7 /* SJCropCollectionCell.m */; };
+		F073A39127E4240100716D10 /* ExportVideoUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = F073A39027E4240100716D10 /* ExportVideoUtil.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,8 @@
 		2BCABA4C224B80C4002E4BF7 /* SJCommon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJCommon.h; sourceTree = "<group>"; };
 		2BCABA4D224B8629002E4BF7 /* SJCropCollectionCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SJCropCollectionCell.h; sourceTree = "<group>"; };
 		2BCABA4E224B8629002E4BF7 /* SJCropCollectionCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJCropCollectionCell.m; sourceTree = "<group>"; };
+		F073A38F27E4240100716D10 /* ExportVideoUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExportVideoUtil.h; sourceTree = "<group>"; };
+		F073A39027E4240100716D10 /* ExportVideoUtil.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExportVideoUtil.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				2BCABA47224B7B40002E4BF7 /* SJVideoCropView.m */,
 				2B2F29322248868100D35301 /* SJVideoPlayView.h */,
 				2B2F29332248868100D35301 /* SJVideoPlayView.m */,
+				F073A38F27E4240100716D10 /* ExportVideoUtil.h */,
+				F073A39027E4240100716D10 /* ExportVideoUtil.m */,
 			);
 			path = SJVideoCrop;
 			sourceTree = "<group>";
@@ -188,6 +193,7 @@
 				2B2F292C2248863300D35301 /* main.m in Sources */,
 				2BCABA4F224B8629002E4BF7 /* SJCropCollectionCell.m in Sources */,
 				2B5A25D5225C89D700512C8F /* SJCropViewController.m in Sources */,
+				F073A39127E4240100716D10 /* ExportVideoUtil.m in Sources */,
 				2B2F291E2248863200D35301 /* AppDelegate.m in Sources */,
 				2B5A25D0225C3CB800512C8F /* UIButton+SJExtension.m in Sources */,
 			);
